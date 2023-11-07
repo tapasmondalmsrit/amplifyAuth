@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>CI/CD TEST</p>
+        <p>CI/CD TEST update build in gitignore</p>
       </header>
     </div>
   );
